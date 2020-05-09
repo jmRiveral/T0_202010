@@ -12,6 +12,10 @@ public interface IArregloDinamico <T extends Comparable<T>> {
 	 * Retornar el numero de elementos presentes en el arreglo
 	 * @return
 	 */
+	// nelllll
+	
+	
+	
 	int darTamano( );
 	
 	/**
